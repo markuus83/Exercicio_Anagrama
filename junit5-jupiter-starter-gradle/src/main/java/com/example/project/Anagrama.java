@@ -3,7 +3,7 @@ package com.example.project;
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class anagrama {
+public class Anagrama {
 
     public static boolean areAnagrams(String str1, String str2) {
     	
